@@ -1,0 +1,7 @@
+//Send a text-to-speech message to the Call or Conversation
+[
+ {
+   "action": "talk",
+   "text": "Hello, you are listening to a call made using Voice API."
+ }
+]
