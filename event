@@ -1,0 +1,6 @@
+[
+ {
+   "action": "talk",
+   "text": "Hello, you are listening to a call made using Voice API."
+ }
+]
